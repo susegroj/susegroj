@@ -1,4 +1,4 @@
-# Susegroj 💻
+# Jorge MM 💻
 
 ## Practice projects
 
