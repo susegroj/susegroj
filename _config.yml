@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: logo.jpg
 sass:
     sass_dir: _sass
+    style: compressed
