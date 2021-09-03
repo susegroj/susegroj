@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 logo: logo.jpg
+sass:
+    sass_dir: assets/css
